@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "536299124396",
+    "firebase_url": "https://cybertrustmobile.firebaseio.com",
+    "project_id": "cybertrustmobile",
+    "storage_bucket": "cybertrustmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536299124396:android:76374976edc47848",
+        "android_client_info": {
+          "package_name": "com.example.monitoringapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKRxeN1Jgj1Z7J2I1msq1PSH1wq4FW4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536299124396-3511ebptuvkuj168fjd9sgraft9jeimj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536299124396:android:7ed50964ee2ee463",
+        "android_client_info": {
+          "package_name": "om.example.monitoringapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKRxeN1Jgj1Z7J2I1msq1PSH1wq4FW4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536299124396-3511ebptuvkuj168fjd9sgraft9jeimj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

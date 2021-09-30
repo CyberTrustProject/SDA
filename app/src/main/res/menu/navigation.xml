@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_profile"
+        android:icon="@drawable/people"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/action_notifications"
+        android:icon="@drawable/notifications"
+        android:title="Notifications" />
+
+    <item
+        android:id="@+id/action_device"
+        android:icon="@drawable/device"
+        android:title="Device" />
+
+    <item
+        android:id="@+id/action_monitoring"
+        android:icon="@drawable/monitoring"
+        android:title="Monitoring" />
+
+</menu>
